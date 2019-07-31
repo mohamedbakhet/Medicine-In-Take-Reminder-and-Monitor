@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942538532813",
+    "firebase_url": "https://medicinereminderandmointer.firebaseio.com",
+    "project_id": "medicinereminderandmointer",
+    "storage_bucket": "medicinereminderandmointer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942538532813:android:a23ea5e5e87f7e7a",
+        "android_client_info": {
+          "package_name": "com.Medicine.SkyForceTeam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942538532813-fiuer6m0m21ufldrdhth989oaleq5cvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Medicine.SkyForceTeam",
+            "certificate_hash": "8865e9cb6b3878b49204aa239b5714f4ea4375e7"
+          }
+        },
+        {
+          "client_id": "942538532813-snns85q31v01bdnihknogcfnrmb967go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFtLAHrgX7AUvtn_Lxb8OdP-r7Ge7xPo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942538532813-snns85q31v01bdnihknogcfnrmb967go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

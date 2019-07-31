@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.ebanx.swipebtn.SwipeButton
+        android:id="@+id/swbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_centerInParent="true"
+        app:inner_text="Swipe to Cancel Alarm"
+        app:inner_text_color="@android:color/white"
+        app:inner_text_size="16sp"
+        app:inner_text_bottom_padding="18dp"
+        app:inner_text_top_padding="18dp"
+        app:inner_text_background="@drawable/shape_rounded"
+        app:button_image_disabled="@drawable/ic_alarm_black_24dp"
+        app:button_image_enabled="@drawable/ic_alarm_off_black_24dp"
+        app:button_left_padding="20dp"
+        app:button_right_padding="20dp"
+        app:button_bottom_padding="20dp"
+        app:button_top_padding="20dp"
+        app:button_background="@drawable/shape_button">
+
+    </com.ebanx.swipebtn.SwipeButton>
+
+</RelativeLayout>

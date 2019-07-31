@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Cure</string>
+    <string name="title_activity_menu">   Home  </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="direction">left</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_add_madicine">AddMadicine</string>
+    <string name="fab1">add Medicine</string>
+    <string name="fab3">activity</string>
+    <string name="fab4">note</string>
+    <string name="fab2">Measurement</string>
+    <string name="Choies1">add reminder</string>
+    <string name="Choies2">record action</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_add_medicine">AddMedicine</string>
+    <string name="title_activity_add_doa">AddDoa</string>
+    <string name="form_hint_description">add nate</string>
+    <string name="some_text">Medicine Name</string>
+    <string name="step2">Description</string>
+</resources>
+
